@@ -15,13 +15,13 @@ last_pos = (0, 0)
 radius = 5
 
 
-white = (255,255,255)
-red = (255,0,0)
-yellow = (255,255,0)
-green = (102,204,0)
-blue = (51,51,255)
-black= (0,0,0)
-pink = (255,0,255)
+WHITE = (255,255,255)
+RED = (255,0,0)
+YELLOW = (255,255,0)
+GREEN = (102,204,0)
+BLUE = (51,51,255)
+BLACK = (0,0,0)
+PINK = (255,0,255)
 
 
 pygame.draw.rect(screen,RED,(0,50,20,20))
