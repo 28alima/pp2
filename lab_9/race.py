@@ -4,7 +4,6 @@ from pygame.locals import *
 # init
 pygame.init()
 
-# initialize constants
 SIZE = WIDTH, HEIGHT = 400, 600
 FPS = 60
 SPEED = 5
